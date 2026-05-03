@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Neilon64.aternos.me",
+    "ip": "limia.aternos.host",
     "port": 36091,
     "version": "1.21.11",
     "try-creative": false
